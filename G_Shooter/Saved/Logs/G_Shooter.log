@@ -3138,3 +3138,22 @@ Script Stack (0 frames):
 [2022.12.13-18.06.08:140][320]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/BP_Enemy_Auto5
 [2022.12.13-18.06.08:140][320]LogSavePackage: Moving '../../../../../../Users/ISSEI/Documents/GitHub/G_Shooter/G_Shooter/Saved/BP_Enemy_Auto55A3186DD40A10015A04C37A07B1F42A4.tmp' to '../../../../../../Users/ISSEI/Documents/GitHub/G_Shooter/G_Shooter/Saved/Autosaves/Game/BP/BP_Enemy_Auto5.uasset'
 [2022.12.13-18.06.08:140][320]LogFileHelpers: Auto-saving content packages took 0.025
+[2022.12.13-18.07.13:708][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.12.13-18.07.14:986][680]LogSlate: Window '名前を付けてレベルを保存する' being destroyed
+[2022.12.13-18.07.19:102][ 77]LogEditorViewport: Clicking Background
+[2022.12.13-18.07.20:101][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Main" FILE="../../../../../../Users/ISSEI/Documents/GitHub/G_Shooter/G_Shooter/Content/Map/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.13-18.07.20:143][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.12.13-18.07.20:159][185]LogSavePackage: Moving output files for package: /Game/Map/Main
+[2022.12.13-18.07.20:159][185]LogSavePackage: Moving '../../../../../../Users/ISSEI/Documents/GitHub/G_Shooter/G_Shooter/Saved/MainEFC63CDF43607575A24719B45AA0DD97.tmp' to '../../../../../../Users/ISSEI/Documents/GitHub/G_Shooter/G_Shooter/Content/Map/Main.umap'
+[2022.12.13-18.07.20:179][185]AssetCheck: New page: アセット保存：Main
+[2022.12.13-18.07.20:179][185]LogContentValidation: Display: World /Game/Map/Main.Main を検証しています
+[2022.12.13-18.07.23:584][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Enemy" FILE="../../../../../../Users/ISSEI/Documents/GitHub/G_Shooter/G_Shooter/Content/BP/BP_Enemy.uasset" SILENT=true
+[2022.12.13-18.07.23:594][577]LogSavePackage: Moving output files for package: /Game/BP/BP_Enemy
+[2022.12.13-18.07.23:595][577]LogSavePackage: Moving '../../../../../../Users/ISSEI/Documents/GitHub/G_Shooter/G_Shooter/Saved/BP_Enemy3382BA0B4A0826ABC00AADBC1A5B9920.tmp' to '../../../../../../Users/ISSEI/Documents/GitHub/G_Shooter/G_Shooter/Content/BP/BP_Enemy.uasset'
+[2022.12.13-18.07.23:609][577]AssetCheck: New page: アセット保存：BP_Enemy
+[2022.12.13-18.07.23:609][577]LogContentValidation: Display: Blueprint /Game/BP/BP_Enemy.BP_Enemy を検証しています
+[2022.12.13-18.07.23:900][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_Enemy" FILE="../../../../../../Users/ISSEI/Documents/GitHub/G_Shooter/G_Shooter/Content/BP/BP_Enemy.uasset" SILENT=true
+[2022.12.13-18.07.23:909][605]LogSavePackage: Moving output files for package: /Game/BP/BP_Enemy
+[2022.12.13-18.07.23:909][605]LogSavePackage: Moving '../../../../../../Users/ISSEI/Documents/GitHub/G_Shooter/G_Shooter/Saved/BP_Enemy1E8B851D423D5B5C41646287C82445ED.tmp' to '../../../../../../Users/ISSEI/Documents/GitHub/G_Shooter/G_Shooter/Content/BP/BP_Enemy.uasset'
+[2022.12.13-18.07.23:923][605]AssetCheck: New page: アセット保存：BP_Enemy
+[2022.12.13-18.07.23:923][605]LogContentValidation: Display: Blueprint /Game/BP/BP_Enemy.BP_Enemy を検証しています
