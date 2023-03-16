@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\issei\\documents\\github\\g_shooter\\g_shooter\\intermediate\\source\\g_shooter.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\issei\\documents\\github\\g_shooter\\g_shooter\\intermediate\\build\\win64\\g_shooter\\shipping\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\issei\\documents\\github\\g_shooter\\g_shooter\\intermediate\\build\\win64\\unrealgame\\shipping\\g_shooter\\definitions.g_shooter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
