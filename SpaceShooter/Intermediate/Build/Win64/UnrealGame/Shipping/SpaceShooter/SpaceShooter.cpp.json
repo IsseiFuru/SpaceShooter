@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\issei\\documents\\github\\spaceshooter\\spaceshooter\\intermediate\\source\\spaceshooter.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\issei\\documents\\github\\spaceshooter\\spaceshooter\\intermediate\\build\\win64\\spaceshooter\\shipping\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\issei\\documents\\github\\spaceshooter\\spaceshooter\\intermediate\\build\\win64\\unrealgame\\shipping\\spaceshooter\\definitions.spaceshooter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
