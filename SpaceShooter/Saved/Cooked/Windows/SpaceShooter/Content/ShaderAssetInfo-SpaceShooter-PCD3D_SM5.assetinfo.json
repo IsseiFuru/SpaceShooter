@@ -87,12 +87,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "11AB4D18B6E4F96C0476760488FEDC57F8D9E3F7",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Basic_Wall"
-			]
-		},
-		{
 			"ShaderMapHash": "32F9E5571E6CBB93B815B62F67B5CF6ECC472B84",
 			"Assets": [
 				"/Game/Material/M_Red"
@@ -102,6 +96,12 @@
 			"ShaderMapHash": "F7B3830A090DA8C3432B275D1EAAD409B50E6D74",
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/m_flare_01"
+			]
+		},
+		{
+			"ShaderMapHash": "11AB4D18B6E4F96C0476760488FEDC57F8D9E3F7",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
 			]
 		},
 		{
@@ -136,6 +136,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "F9263927B9A447444CEB25F0683B99FA6EDE8534",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -145,12 +151,6 @@
 			"ShaderMapHash": "3B599E1E84C6BED8F66AF5A2D1125FB845FE4CAB",
 			"Assets": [
 				"/ControlRig/M_Manip"
-			]
-		},
-		{
-			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
-			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -245,18 +245,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "55BE881F11A7C6B8ECFA368CAB1A82901F579753",
-			"Assets": [
-				"/Game/Material/M_SpaceBackGround"
-			]
-		},
-		{
-			"ShaderMapHash": "B08CA8E62E117DC5D0F34D46735561944F77400C",
-			"Assets": [
-				"/Game/Material/M_Cursor"
-			]
-		},
-		{
 			"ShaderMapHash": "50873F6277E501954377AA7E857DA3874251110E",
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/M_Burst"
@@ -278,6 +266,12 @@
 			"ShaderMapHash": "81FCE478ACAF1C47903CCEE90DA8B2502F837953",
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "B08CA8E62E117DC5D0F34D46735561944F77400C",
+			"Assets": [
+				"/Game/Material/M_Cursor"
 			]
 		},
 		{
@@ -352,6 +346,12 @@
 			"Assets": [
 				"/USDImporter/Materials/UsdPreviewSurfaceTranslucentVT",
 				"/USDImporter/Materials/UsdPreviewSurfaceTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "55BE881F11A7C6B8ECFA368CAB1A82901F579753",
+			"Assets": [
+				"/Game/Material/M_SpaceBackGround"
 			]
 		}
 	]
