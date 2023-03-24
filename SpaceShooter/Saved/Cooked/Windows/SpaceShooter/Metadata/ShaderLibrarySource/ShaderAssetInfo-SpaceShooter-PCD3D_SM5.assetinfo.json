@@ -245,6 +245,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "55BE881F11A7C6B8ECFA368CAB1A82901F579753",
+			"Assets": [
+				"/Game/Material/M_SpaceBackGround"
+			]
+		},
+		{
 			"ShaderMapHash": "50873F6277E501954377AA7E857DA3874251110E",
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/M_Burst"
@@ -346,12 +352,6 @@
 			"Assets": [
 				"/USDImporter/Materials/UsdPreviewSurfaceTranslucentVT",
 				"/USDImporter/Materials/UsdPreviewSurfaceTranslucent"
-			]
-		},
-		{
-			"ShaderMapHash": "55BE881F11A7C6B8ECFA368CAB1A82901F579753",
-			"Assets": [
-				"/Game/Material/M_SpaceBackGround"
 			]
 		}
 	]
